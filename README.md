@@ -50,3 +50,5 @@ Create an interactive dashboard for dynamic exploration.
 Seaborn
 
 Plotly
+
+<img width="1046" height="777" alt="image" src="https://github.com/user-attachments/assets/a076b30d-cac8-4622-8d35-f6d8ba7c503a" />
