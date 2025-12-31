@@ -52,3 +52,6 @@ Seaborn
 Plotly
 
 <img width="1046" height="777" alt="image" src="https://github.com/user-attachments/assets/a076b30d-cac8-4622-8d35-f6d8ba7c503a" />
+
+<img width="1228" height="635" alt="image" src="https://github.com/user-attachments/assets/45feb68b-bfcf-4b79-a6cf-deb3c1f575fb" />
+
